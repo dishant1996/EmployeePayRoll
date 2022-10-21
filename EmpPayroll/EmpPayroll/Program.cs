@@ -2,19 +2,20 @@
 {
     static void Main(string[] args)
     {
-        //Uc1
-        Random r = new Random();
-        int value = r.Next(0, 2);
+        //Uc2
+        Random random = new Random();
+        var value = random.Next(1, 3);
 
-        if (value == 0)
+        int EmpHour;
+        if (value == 1)
         {
-            Console.WriteLine("emp is present");
+            EmpHour = 0;
         }
         else
         {
-            Console.WriteLine("emp is absent");
+            EmpHour = 8;
 
         }
+        Console.WriteLine(EmpHour);
     }
 }
-

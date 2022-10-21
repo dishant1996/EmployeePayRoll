@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\bin\Debug\net6.0\EmpPayroll.exe
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\bin\Debug\net6.0\EmpPayroll.deps.json
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\bin\Debug\net6.0\EmpPayroll.runtimeconfig.json
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\bin\Debug\net6.0\EmpPayroll.dll
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\bin\Debug\net6.0\EmpPayroll.pdb
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.dll
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\refint\EmpPayroll.dll
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.pdb
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\EmpPayroll.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BL\DAY 3\EmployRoll\EmpPayroll\EmpPayroll\obj\Debug\net6.0\ref\EmpPayroll.dll
