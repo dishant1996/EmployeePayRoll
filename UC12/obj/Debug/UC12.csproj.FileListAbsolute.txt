@@ -1,0 +1,3 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\emp wage\UC12\UC12\obj\Debug\UC12.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\emp wage\UC12\UC12\obj\Debug\UC12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\emp wage\UC12\UC12\obj\Debug\UC12.csproj.CoreCompileInputs.cache
